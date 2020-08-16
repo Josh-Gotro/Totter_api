@@ -1,24 +1,10 @@
-# README
+CICO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app will help me keep track and keep trim. 
 
-Things you may want to cover:
+To start, this app was generated using `rails new Totter_api --api'
 
-* Ruby version
+Front end is written in React and is linked here:
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+As always, feel free to clone and contribute. For questions please email joshuagauthreaux@gmail.com or reach me through my website, joshgotro.com. 
